@@ -1,0 +1,15 @@
+.font-poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+#underline {
+    content: "";
+    display: block;
+    margin: 5px auto 0;
+    width: 50px;
+    height: 2px;
+    background-color: black;
+    position: absolute;
+
+}
+
